@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65c6011d5e84f9247b2289819765e4ec, type: 3}
+  m_Name: SpawnPointsPreset
+  m_EditorClassIdentifier: 
+  _points:
+  - {fileID: 11400000, guid: e0f5a8f9ceef5ba4ea8c750c9fae679b, type: 2}
+  - {fileID: 11400000, guid: d92fc3a5a37b7694dbb67bd1ecdbba54, type: 2}
+  - {fileID: 11400000, guid: 2ad62ef8606953843bd55d96b38af264, type: 2}
+  - {fileID: 11400000, guid: 2e65ed5a320cce445bb7ede72a0f1410, type: 2}
+  - {fileID: 11400000, guid: f1b8b6f5f4ad2fa4cb8482af16d20912, type: 2}
+  _config:
+    _path: Assets/_Presets/Points
+    _defaultName: NewPointPreset
+    _folderName: BurgerSpawnPoints

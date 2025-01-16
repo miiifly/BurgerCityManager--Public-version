@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 420813be2ce037a40be1d80d300e6b16
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _GridMask: {fileID: 2800000, guid: 51ab3d1e0045c41439dcd7474d2aee4b, type: 3}
+  - _decalMask: {fileID: 2800000, guid: 14aa7e8c0b2f59f46a6b099502212316, type: 3}
+  - _decalMaskUV: {fileID: 2800000, guid: 86e05654cdae3474892c7c23fe452a57, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95835301098e039439ada9c3f2ccc78f, type: 3}
+  m_Name: ClientPreset
+  m_EditorClassIdentifier: 
+  _components:
+  - {fileID: 760505044351705676, guid: e72b88d7a5a0454458f0e643091ef64f, type: 3}
+  - {fileID: 760505044351705676, guid: f5d5e3110e740624e8dee507dfafd0e9, type: 3}
+  - {fileID: 760505044351705676, guid: 82d93fb8353c4f34e88b2870a6f60daf, type: 3}
+  - {fileID: 760505044351705676, guid: b697aa3da6575a948b71a1eed51b2dda, type: 3}
+  - {fileID: 760505044351705676, guid: 5aa50d63032db3a43bc71a9b7c7a57eb, type: 3}
+  _clientCapacity: 10

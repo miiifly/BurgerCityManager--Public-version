@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: bld_suburbs_house_chimney_a_mat
+  m_Shader: {fileID: 4800000, guid: 420813be2ce037a40be1d80d300e6b16, type: 3}
+  m_ShaderKeywords: _COLOR_PRIMARYGRADIENT_ON _COLOR_SECONDARYGRADIENT_ON _ENABLEEMISSION__EMS_OFF
+    _ENABLEGRADIENT14_ON _ENABLEGRADIENT15_ON _ENABLEGRADIENT1_ON _ENABLEGRADIENT2_ON
+    _ENABLEGRADIENT4_ON _ENABLEGRADIENT9_ON _ROOF_SECONDARYGRADIENT_ON _WORKFLOW_PROP
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GridMask:
+        m_Texture: {fileID: 2800000, guid: 51ab3d1e0045c41439dcd7474d2aee4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: b244e25c9803b6f4d94be225bf0b2516, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _decalMask:
+        m_Texture: {fileID: 2800000, guid: 14aa7e8c0b2f59f46a6b099502212316, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _decalMaskUV:
+        m_Texture: {fileID: 2800000, guid: 86e05654cdae3474892c7c23fe452a57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _matcapimage:
+        m_Texture: {fileID: 2800000, guid: b23676ff9cac20a4c9c7b9333f055f1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bonus_color_bGradient: 0
+    - _Bonus_color_cGradient: 0
+    - _Bonus_color_dGradient: 0
+    - _Bottom_primaryGradient: 1
+    - _Bottom_roofing_aGradient: 0
+    - _Bottom_roofing_bGradient: 0
+    - _Bottom_secondaryGradient: 0
+    - _BumpScale: 1
+    - _Color_primaryGradient: 1
+    - _Color_secondaryGradient: 1
+    - _CornersGradient: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Emission1power: 0
+    - _Emission2power: 0
+    - _Emission3power: 0
+    - _Emission4power: 0
+    - _EmissionWindowpower: 0
+    - _Emissiontoggle: 0
+    - _EnableGradient1: 1
+    - _EnableGradient10: 0
+    - _EnableGradient11: 0
+    - _EnableGradient12: 0
+    - _EnableGradient13: 0
+    - _EnableGradient14: 1
+    - _EnableGradient15: 1
+    - _EnableGradient16: 0
+    - _EnableGradient2: 1
+    - _EnableGradient3: 0
+    - _EnableGradient4: 1
+    - _EnableGradient5: 0
+    - _EnableGradient6: 0
+    - _EnableGradient7: 0
+    - _EnableGradient8: 0
+    - _EnableGradient9: 1
+    - _Enablepropemission1: 0
+    - _Enablepropemission2: 0
+    - _Enablepropemission3: 0
+    - _Enablewindowemmision: 0
+    - _Float2: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GradientMultiply1: 0.6
+    - _GradientMultiply10: 0.6
+    - _GradientMultiply11: 0.6
+    - _GradientMultiply12: 0.6
+    - _GradientMultiply13: 0.6
+    - _GradientMultiply14: 0.6
+    - _GradientMultiply2: 0.6
+    - _GradientMultiply3: 0.6
+    - _GradientMultiply4: 0.6
+    - _GradientMultiply5: 0.6
+    - _GradientMultiply6: 0.6
+    - _GradientMultiply7: 0.6
+    - _GradientMultiply8: 0.6
+    - _GradientMultiply9: 0.6
+    - _GradientPower1: 1
+    - _GradientPower10: 1
+    - _GradientPower11: 0.001
+    - _GradientPower12: 0.001
+    - _GradientPower13: 0.001
+    - _GradientPower14: 0.001
+    - _GradientPower2: 1
+    - _GradientPower3: 1
+    - _GradientPower4: 1
+    - _GradientPower5: 1
+    - _GradientPower6: 1
+    - _GradientPower7: 1
+    - _GradientPower8: 1
+    - _GradientPower9: 1
+    - _Height: 7
+    - _Hue: 0
+    - _Hue1: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Power: 1
+    - _RandomColorHue1: 0.1
+    - _Roof_primaryGradient: 0
+    - _Roof_secondaryGradient: 1
+    - _Saturation: 1
+    - _Saturation1: 1
+    - _SetGradientColor: 0
+    - _SetGradientColor2: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Value: 0
+    - _Value1: 0
+    - _WindowGradient: 0
+    - _Window_decorGradient: 0
+    - _Window_frameGradient: 0
+    - _Window_railGradient: 0
+    - _Workflow: 1
+    - _WorldSpaceGradientToggle: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _enableemission__ems: 0
+    - _matcapHue: 0
+    - _matcapSaturation: 1
+    - _matcapValue: 0
+    - _primaryGradientMultiply: 0.6
+    - _primaryGradientPower: 0.001
+    - _randomcolorRangeMax: 1.5
+    - _randomcolorRangeMin: -1
+    - _randomcolorSeed: 0
+    - _randomcolortoggle: 0
+    - _secondaryGradientMultiply: 0.6
+    - _secondaryGradientPower: 0.001
+    - _worldspacegradienttoggle: 0
+    - _wsg_GradientHeight: 7
+    - _wsg_gradientPower: 1
+    m_Colors:
+    - _Bonus_color_b: {r: 0.3207547, g: 0.2507247, b: 0.19820221, a: 1}
+    - _Bonus_color_b2: {r: 0.16037738, g: 0.098193325, b: 0.056737285, a: 1}
+    - _Bonus_color_c: {r: 0.38443395, g: 0.4822206, b: 0.5, a: 1}
+    - _Bonus_color_c2: {r: 0.16647384, g: 0.25573307, b: 0.2735849, a: 1}
+    - _Bonus_color_d: {r: 0.3882353, g: 0.3529412, b: 0.4, a: 1}
+    - _Bonus_color_d2: {r: 0.2083148, g: 0.125712, b: 0.2358491, a: 1}
+    - _BottomColor: {r: 0.16981125, g: 0.14658237, b: 0.14658237, a: 0}
+    - _Bottom_color_primary: {r: 0.5377358, g: 0.46153337, b: 0.40837485, a: 1}
+    - _Bottom_color_primary2: {r: 0.1509434, g: 0.09562669, b: 0.07903168, a: 1}
+    - _Bottom_color_secondary: {r: 0.18867922, g: 0.07894791, b: 0.0720897, a: 1}
+    - _Bottom_color_secondary2: {r: 0.1603774, g: 0.06191638, b: 0.0537113, a: 1}
+    - _Bottom_primary: {r: 0.3098039, g: 0.282353, b: 0.2745098, a: 1}
+    - _Bottom_primary2: {r: 0.2924528, g: 0.1755023, b: 0.1420879, a: 1}
+    - _Bottom_roofing_a: {r: 0.482353, g: 0.3764706, b: 0.3647059, a: 1}
+    - _Bottom_roofing_a2: {r: 0.1603774, g: 0.05632995, b: 0.04765932, a: 1}
+    - _Bottom_roofing_b: {r: 0.6627451, g: 0.4705883, b: 0.4588236, a: 1}
+    - _Bottom_roofing_b2: {r: 0.4716981, g: 0.2263928, b: 0.2113741, a: 1}
+    - _Bottom_roofing_color_a: {r: 0.3018868, g: 0.2117689, b: 0.16375935, a: 1}
+    - _Bottom_roofing_color_a2: {r: 0.5660378, g: 0.3280479, b: 0.3070488, a: 1}
+    - _Bottom_roofing_color_b: {r: 0.3679245, g: 0.24485222, b: 0.19263972, a: 1}
+    - _Bottom_roofing_color_b2: {r: 0.6886792, g: 0.3377442, b: 0.31510323, a: 1}
+    - _Bottom_secondary: {r: 0.3607843, g: 0.2627451, b: 0.254902, a: 1}
+    - _Bottom_secondary2: {r: 0.1603774, g: 0.06191638, b: 0.0537113, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_primary: {r: 0.39607844, g: 0.17254902, b: 0.21568628, a: 0}
+    - _Color_primary2: {r: 0.74509805, g: 0.30588236, b: 0.39215687, a: 0}
+    - _Color_secondary: {r: 0.7372549, g: 0.56078434, b: 0.70980394, a: 0}
+    - _Color_secondary2: {r: 0.5176471, g: 0.39215687, b: 0.4862745, a: 0}
+    - _Corners: {r: 0.2392157, g: 0.2509804, b: 0.3058824, a: 1}
+    - _Corners2: {r: 0.06666667, g: 0.1019608, b: 0.2470588, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Emmision1: {r: 0, g: 0, b: 0, a: 1}
+    - _Emmision2: {r: 0, g: 0, b: 0, a: 1}
+    - _Emmision3: {r: 0, g: 0, b: 0, a: 1}
+    - _Roof_primary: {r: 0.12821767, g: 0.110270575, b: 0.13207549, a: 1}
+    - _Roof_primary2: {r: 0.07185239, g: 0.1509434, b: 0.059095763, a: 1}
+    - _Roof_secondary: {r: 0.32117024, g: 0.5176471, b: 0.28235295, a: 1}
+    - _Roof_secondary2: {r: 0.09926131, g: 0.1792453, b: 0.07017622, a: 1}
+    - _TopColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Window: {r: 0.8867924, g: 0.8867924, b: 0.8867924, a: 1}
+    - _Window2: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 1}
+    - _WindowEmission: {r: 0, g: 0, b: 0, a: 1}
+    - _Window_decor: {r: 0.482353, g: 0.2745098, b: 0.2431373, a: 1}
+    - _Window_decor2: {r: 0.254902, g: 0.07843138, b: 0.0509804, a: 1}
+    - _Window_frame: {r: 0.3679245, g: 0.20154768, b: 0.1961107, a: 1}
+    - _Window_frame2: {r: 0.4056604, g: 0.2388922, b: 0.2085707, a: 1}
+    - _Window_rail: {r: 0.254717, g: 0.14875719, b: 0.12135102, a: 1}
+    - _Window_rail2: {r: 0.482353, g: 0.2392157, b: 0.2235294, a: 1}
+    - _blackColor: {r: 0.097, g: 0.097, b: 0.097, a: 0}
+    - _blackColor1: {r: 0.097, g: 0.097, b: 0.097, a: 0}
+    - _bonus_aColor: {r: 1, g: 1, b: 1, a: 0}
+    - _bonus_bColor: {r: 1, g: 1, b: 1, a: 0}
+    - _bonus_cColor: {r: 1, g: 1, b: 1, a: 0}
+    - _bonus_dColor: {r: 1, g: 1, b: 1, a: 0}
+    - _bottomprimaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _bottomsecondaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _decalColor: {r: 0, g: 0, b: 0, a: 0}
+    - _decalOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _deco_aColor: {r: 1, g: 1, b: 1, a: 0}
+    - _deco_bColor: {r: 1, g: 1, b: 1, a: 0}
+    - _deco_cColor: {r: 1, g: 1, b: 1, a: 0}
+    - _detailColor: {r: 1, g: 1, b: 1, a: 0}
+    - _front1Color: {r: 1, g: 1, b: 1, a: 0}
+    - _front2Color: {r: 1, g: 1, b: 1, a: 0}
+    - _headlight_aColor: {r: 1, g: 1, b: 1, a: 0}
+    - _headlight_bColor: {r: 1, g: 1, b: 1, a: 0}
+    - _primaryColor: {r: 0.6886792, g: 0.30860624, b: 0.30860624, a: 0}
+    - _primaryGradientColor: {r: 0, g: 0, b: 0, a: 0}
+    - _roofprimaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _roofsecondaryColor: {r: 1, g: 1, b: 1, a: 0}
+    - _secondaryColor: {r: 0.5943396, g: 0.4513617, b: 0.4513617, a: 0}
+    - _secondaryGradientColor: {r: 0, g: 0, b: 0, a: 0}
+    - _wheelfenderColor: {r: 1, g: 1, b: 1, a: 0}
+    - _whiteColor: {r: 0.6, g: 0.6, b: 0.6, a: 0}
+    - _whiteColor1: {r: 0.6, g: 0.6, b: 0.6, a: 0}
+    - _windowColor: {r: 1, g: 1, b: 1, a: 0}
+    - _windowborderColor: {r: 1, g: 1, b: 1, a: 0}
+    - _wsg_BottomColor: {r: 0.16981125, g: 0.14658237, b: 0.14658237, a: 0}
+    - _wsg_TopColor: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

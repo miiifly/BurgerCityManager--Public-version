@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb2b2ca2726b2a4cb17f6d30addd952, type: 3}
+  m_Name: PointOfInterestPreset
+  m_EditorClassIdentifier: 
+  _points:
+  - {fileID: 11400000, guid: cb34fec5505d79d429ddc092a301d5bf, type: 2}
+  - {fileID: 11400000, guid: cbb96f9afabf86b4da58c78c9715ce3e, type: 2}
+  - {fileID: 11400000, guid: c90592299531c7d4fbf71a32bd71586a, type: 2}
+  - {fileID: 11400000, guid: 3f509fd2a28155340b447999bfd7728a, type: 2}
+  - {fileID: 11400000, guid: b99e03a3dc52dc443ab8271a77501714, type: 2}
+  - {fileID: 11400000, guid: d11aa1b536f87a342be4c48bbb300868, type: 2}
+  - {fileID: 11400000, guid: ce8135b8286b5834b88f5731548bd91e, type: 2}
+  - {fileID: 11400000, guid: 2242f8e81e4847845852a1a97898fda3, type: 2}
+  - {fileID: 11400000, guid: e5a5bbd47f534114dbcd9747610983dd, type: 2}
+  - {fileID: 11400000, guid: bbc5d2fef73c780488376d2d5e4117c6, type: 2}
+  - {fileID: 11400000, guid: a564121c849cca244b86f7e7ab08f239, type: 2}
+  - {fileID: 11400000, guid: 8afd2b7690dbd0b478dbe0c4377ba7df, type: 2}
+  _config:
+    _path: Assets/_Presets/Points/
+    _defaultName: NewPointPreset
+    _folderName: PointOfInterest

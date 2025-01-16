@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tile_sidewalk_a_mat_old
+  m_Shader: {fileID: 4800000, guid: f2ce8366169d3dd41ab56008f261120d, type: 3}
+  m_ShaderKeywords: _BLD_BONUS_COLOR_AGRADIENT_ON _BLD_BONUS_COLOR_BGRADIENT_ON _BLD_BONUS_COLOR_CGRADIENT_ON
+    _BLD_BONUS_COLOR_DGRADIENT_ON _BLD_BOTTOM_PRIMARYGRADIENT_ON _BLD_BOTTOM_ROOFING_AGRADIENT_ON
+    _BLD_BOTTOM_ROOFING_BGRADIENT_ON _BLD_BOTTOM_SECONDARY_AGRADIENT_ON _BLD_COLOR_PRIMARYGRADIENT_ON
+    _BLD_COLOR_SECONDARYGRADIENT_ON _BLD_DECORGRADIENT_ON _BLD_ROOF_PRIMARYGRADIENT_ON
+    _BLD_ROOF_SECONDARYGRADIENT_ON _BLD_WINDOWGRADIENT_ON _BLD_WINDOW_FRAMEGRADIENT_ON
+    _BLD_WINDOW_RAILGRADIENT_ON _CAR_COLOR_PRIMARYGRADIENT_ON _CAR_COLOR_SECONDARYGRADIENT_ON
+    _CAR_HEADLIGHT_AGRADIENT_ON _CAR_HEADLIGHT_BGRADIENT_ON _CAR_WHEEL_AGRADIENT_ON
+    _CAR_WHEEL_BGRADIENT_ON _CAR_WHEEL_COVER_AGRADIENT_ON _CAR_WINDOW_AGRADIENT_ON
+    _ENABLEEMISSION__EMS_OFF _ENABLEWORLDSPACEGRADIENT__WSG_OFF _PROP_COLOR_BONUS_AGRADIENT_ON
+    _PROP_COLOR_BONUS_BGRADIENT_ON _PROP_COLOR_BONUS_CGRADIENT_ON _PROP_COLOR_PRIMARYGRADIENT_ON
+    _PROP_COLOR_SECONDARYGRADIENT_ON _WORKFLOW_BUILDING _WORKFLOW_NORMAL
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BotTexture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GridMask:
+        m_Texture: {fileID: 2800000, guid: 51ab3d1e0045c41439dcd7474d2aee4b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: b23676ff9cac20a4c9c7b9333f055f1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MidTexture0:
+        m_Texture: {fileID: 2800000, guid: 20119da4484bcd245a1ee7230193c34a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 988e48c2a7a8bde4284e4fe9c000501a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: ab485246c52944a478a7a28a57c560e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample4:
+        m_Texture: {fileID: 2800000, guid: 206bac1a74309af449cd2260424a2f97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_a:
+        m_Texture: {fileID: 2800000, guid: 988e48c2a7a8bde4284e4fe9c000501a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_a_2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_b:
+        m_Texture: {fileID: 2800000, guid: ab485246c52944a478a7a28a57c560e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_b_2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ft_brick_mask_b_2048_5:
+        m_Texture: {fileID: 2800000, guid: 18bae1aa339cb9d43ae29ce1a2126039, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ft_brick_mask_b_2048_6:
+        m_Texture: {fileID: 2800000, guid: ac16c4eb74a37604d9d1b6530744e63c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ft_brick_mask_b_2048_7:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 8.38, y: 4.91}
+        m_Offset: {x: 14.67, y: 1.8}
+    - _rectanglemask:
+        m_Texture: {fileID: 2800000, guid: 6b348da3d0227c8459604c18cb5bf813, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _stripespattern:
+        m_Texture: {fileID: 2800000, guid: 10479c0360970ed4097f50270df21df7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tilingmask2:
+        m_Texture: {fileID: 2800000, guid: c4858746b7545d941a2af212cfe9c58b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _worldspace_mask_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _worldspace_mask_2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Add: 0.061
+    - _Add2: 0
+    - _ColorMasktiling: 0
+    - _FlatColor: 0
+    - _Float11: 5
+    - _Float3: 1
+    - _Hue: 0
+    - _Hue1: 0
+    - _Hue2: 0
+    - _Maskopacity: 0.841
+    - _Maskopacity_1: 1
+    - _Maskopacity_2: 1
+    - _Masktiling: 0.4597179
+    - _Multiply: 0.419
+    - _Multiply2: 0.647
+    - _Multiply_a_1: 0.4
+    - _Multiply_a_2: 1
+    - _Multiply_b_1: 0.64
+    - _Multiply_b_2: 1
+    - _Saturation: 1
+    - _Saturation1: 1
+    - _Saturation2: 1
+    - _Tiling: 1
+    - _Tiling2: 2
+    - _Tiling3: 0
+    - _Value: 0
+    - _Value1: 0
+    - _Value2: 0
+    - _Workflow: 1
+    - __dirty: 0
+    - _add_a_1: 0.061
+    - _add_a_2: 0
+    - _add_b_1: 0
+    - _add_b_2: 0
+    - _bld_bonus_color_agradient: 1
+    - _bld_bonus_color_bgradient: 1
+    - _bld_bonus_color_cgradient: 1
+    - _bld_bonus_color_dgradient: 1
+    - _bld_bottom_primarygradient: 1
+    - _bld_bottom_roofing_agradient: 1
+    - _bld_bottom_roofing_bgradient: 1
+    - _bld_bottom_secondary_agradient: 1
+    - _bld_color_primarygradient: 1
+    - _bld_color_secondarygradient: 1
+    - _bld_decorgradient: 1
+    - _bld_roof_primarygradient: 1
+    - _bld_roof_secondarygradient: 1
+    - _bld_window_framegradient: 1
+    - _bld_window_railgradient: 1
+    - _bld_windowgradient: 1
+    - _car_color_primarygradient: 1
+    - _car_color_secondarygradient: 1
+    - _car_headlight_agradient: 1
+    - _car_headlight_bgradient: 1
+    - _car_wheel_agradient: 1
+    - _car_wheel_bgradient: 1
+    - _car_wheel_cover_agradient: 1
+    - _car_window_agradient: 1
+    - _colormask_tiling_a: 1
+    - _ems_prop_color_1_enable: 0
+    - _ems_prop_color_2_enable: 0
+    - _ems_prop_color_3_enable: 0
+    - _ems_window_color_enable: 0
+    - _enableemission__ems: 0
+    - _enableworldspacegradient__wsg: 0
+    - _hue_a_1: 0
+    - _hue_a_2: 0
+    - _hue_b_1: 0
+    - _hue_b_2: 0
+    - _masknormaltiling: 0
+    - _maskwstiling: 367
+    - _matcap_hue: 0
+    - _matcap_saturation: 1
+    - _matcap_value: 0
+    - _normal_texture_tiling_a: 2
+    - _normal_texture_tiling_b: 1
+    - _prop_color_bonus_agradient: 1
+    - _prop_color_bonus_bgradient: 1
+    - _prop_color_bonus_cgradient: 1
+    - _prop_color_primarygradient: 1
+    - _prop_color_secondarygradient: 1
+    - _rectanglemasktile: 1
+    - _rotator: 1
+    - _saturation_a_1: 1
+    - _saturation_a_2: 1
+    - _saturation_b_1: 1
+    - _saturation_b_2: 1
+    - _stripesopacity: 0.094
+    - _stripestile: 1
+    - _texture2normaltiling: 1
+    - _texture2wstiling: 8
+    - _texturenormaltiling: 2
+    - _texturewstiling: 16
+    - _tiling1opcaity: 0
+    - _tiling2opcaity: 0.888
+    - _tiling3: 0
+    - _tiling3opcaity: 1
+    - _tilingmask: 0.4
+    - _value_a_1: 0
+    - _value_a_2: 0
+    - _value_b_1: 0
+    - _value_b_2: 0
+    - _worldspace_mask_tiling: 0.4597179
+    - _worldspace_mask_tiling_2: 0.4597179
+    - _worldspace_texture_tiling_a: 1
+    - _worldspace_texture_tiling_a_2: 1
+    - _worldspace_texture_tiling_b: 0
+    - _worldspace_texture_tiling_b_2: 0
+    - _wsg_GradientHeight: 6.4
+    - _wsg_gradientPower: 1
+    m_Colors:
+    - _Color0: {r: 0.745283, g: 0.17928976, b: 0.17928976, a: 0}
+    - _Color2: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
+    - _Color3: {r: 0, g: 0, b: 0, a: 1}
+    - _ColorMaskcolor1: {r: 1, g: 1, b: 1, a: 0}
+    - _ColorMaskcolor2: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector3: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bonus_color_a: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bonus_color_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bonus_color_b: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bonus_color_b2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bonus_color_c: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bonus_color_c2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bonus_color_d: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bonus_color_d2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bottom_primary: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bottom_primary2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bottom_roofing_a: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bottom_roofing_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bottom_roofing_b: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bottom_roofing_b2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_bottom_secondary_a: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_bottom_secondary_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_color_primary: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_color_primary2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_color_secondary: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_color_secondary2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_decor: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_decor2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_roof_primary: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_roof_primary2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_roof_secondary: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_roof_secondary2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_window: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_window2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_window_frame: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_window_frame2: {r: 0, g: 0, b: 0, a: 0}
+    - _bld_window_rail: {r: 1, g: 1, b: 1, a: 0}
+    - _bld_window_rail2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_color_primary: {r: 1, g: 1, b: 1, a: 0}
+    - _car_color_primary2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_color_secondary: {r: 1, g: 1, b: 1, a: 0}
+    - _car_color_secondary2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_headlight_a: {r: 1, g: 1, b: 1, a: 0}
+    - _car_headlight_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_headlight_b: {r: 1, g: 1, b: 1, a: 0}
+    - _car_headlight_b2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_wheel_a: {r: 1, g: 1, b: 1, a: 0}
+    - _car_wheel_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_wheel_b: {r: 1, g: 1, b: 1, a: 0}
+    - _car_wheel_b2: {r: 0, g: 0, b: 0, a: 0}
+    - _car_wheel_cover_a: {r: 1, g: 1, b: 1, a: 0}
+    - _car_wheel_cover_a1: {r: 0, g: 0, b: 0, a: 0}
+    - _car_window_a: {r: 1, g: 1, b: 1, a: 0}
+    - _car_window_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _ems_prop_color_1: {r: 1, g: 1, b: 1, a: 0}
+    - _ems_prop_color_2: {r: 1, g: 1, b: 1, a: 0}
+    - _ems_prop_color_3: {r: 1, g: 1, b: 1, a: 0}
+    - _ems_window_color: {r: 1, g: 1, b: 1, a: 0}
+    - _offset: {r: 0, g: 0, b: 0, a: 0}
+    - _prop_color_bonus_a: {r: 1, g: 1, b: 1, a: 0}
+    - _prop_color_bonus_a2: {r: 0, g: 0, b: 0, a: 0}
+    - _prop_color_bonus_b: {r: 1, g: 1, b: 1, a: 0}
+    - _prop_color_bonus_b2: {r: 0, g: 0, b: 0, a: 0}
+    - _prop_color_bonus_c: {r: 1, g: 1, b: 1, a: 0}
+    - _prop_color_bonus_c2: {r: 0, g: 0, b: 0, a: 0}
+    - _prop_color_primary: {r: 1, g: 1, b: 1, a: 0}
+    - _prop_color_primary2: {r: 0, g: 0, b: 0, a: 0}
+    - _prop_color_secondary: {r: 1, g: 1, b: 1, a: 0}
+    - _prop_color_secondary2: {r: 0, g: 0, b: 0, a: 0}
+    - _stripescolor: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 1}
+    - _wsg_BottomColor: {r: 0.16981125, g: 0.14658237, b: 0.14658237, a: 0}
+    - _wsg_TopColor: {r: 0.8416696, g: 0.9076058, b: 0.9245283, a: 0}
+  m_BuildTextureStacks: []

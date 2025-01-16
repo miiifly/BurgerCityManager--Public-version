@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tile_grass_b_ws_mat 1
+  m_Shader: {fileID: 4800000, guid: f2ce8366169d3dd41ab56008f261120d, type: 3}
+  m_ShaderKeywords: _WORKFLOW_VERTEXPAINT _WORKFLOW_VERTEXPAINTBLEND
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ColorMask:
+        m_Texture: {fileID: 2800000, guid: 25b1c9f845ae726498e46fc4154831fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: e8394f58475a1d8469188fcda5e11065, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_2:
+        m_Texture: {fileID: 2800000, guid: 42e261db76e56604fbbbafcc64a46949, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 522c9850202aa8e449b77ba55659bf7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1_2:
+        m_Texture: {fileID: 2800000, guid: 81fd2b87ac23a404ba788eb47db0b46b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: e48d259032a8636438ba3607a45b5825, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2_2:
+        m_Texture: {fileID: 2800000, guid: 6837653246f6cab4395cbe62896c6ed9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_a:
+        m_Texture: {fileID: 2800000, guid: 522c9850202aa8e449b77ba55659bf7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_a_2:
+        m_Texture: {fileID: 2800000, guid: 522c9850202aa8e449b77ba55659bf7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_b:
+        m_Texture: {fileID: 2800000, guid: e48d259032a8636438ba3607a45b5825, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_b_2:
+        m_Texture: {fileID: 2800000, guid: e48d259032a8636438ba3607a45b5825, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _grass1:
+        m_Texture: {fileID: 2800000, guid: 522c9850202aa8e449b77ba55659bf7b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _grass2:
+        m_Texture: {fileID: 2800000, guid: e48d259032a8636438ba3607a45b5825, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _rectanglemask1:
+        m_Texture: {fileID: 2800000, guid: 25b1c9f845ae726498e46fc4154831fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _worldspace_mask_1:
+        m_Texture: {fileID: 2800000, guid: 25b1c9f845ae726498e46fc4154831fa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _worldspace_mask_2:
+        m_Texture: {fileID: 2800000, guid: ffd304431c5eec24c952ea128fa0ef12, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Add: 0
+    - _Add1: 0
+    - _Add2: 0
+    - _Add3: 0
+    - _Add_a: 0
+    - _Add_a_2: 0
+    - _Add_b: 0
+    - _Add_b_2: 1
+    - _ColorMasktiling: 1
+    - _Float0: 1
+    - _Hue: 0.886
+    - _Hue1: 0
+    - _Hue2: 0.886
+    - _Hue2_2: 0
+    - _Hue3: 0
+    - _HueTex2: 0
+    - _Hue_2: 0
+    - _Maskopacity: 1
+    - _Maskopacity1: 1
+    - _Maskopacity_1: 0.596
+    - _Maskopacity_2: 0.395
+    - _Masktiling: 15.51
+    - _Multiply: 1
+    - _Multiply1: 1
+    - _Multiply2: 1
+    - _Multiply3: 1
+    - _Multiply_a: 1
+    - _Multiply_a_1: 1
+    - _Multiply_a_2: 1
+    - _Multiply_b: 1
+    - _Multiply_b_1: 1
+    - _Multiply_b_2: 1
+    - _Saturation: 1.436
+    - _Saturation1: 1
+    - _Saturation2: 1.758
+    - _Saturation2_2: 1
+    - _Saturation3: 1
+    - _SaturationTex2: 1
+    - _Saturation_2: 1
+    - _Tiling: 136
+    - _Tiling2: 136
+    - _Value: 0
+    - _Value1: 0
+    - _Value2: 0.008
+    - _Value2_2: 0
+    - _Value3: 0
+    - _ValueTex2: 0
+    - _Value_2: 0
+    - _Workflow: 3
+    - __dirty: 0
+    - _add_a: 0
+    - _add_a_1: 0
+    - _add_a_2: 0
+    - _add_b: 0
+    - _add_b_1: 0
+    - _add_b_2: 0
+    - _colormask_tiling_1: 1
+    - _colormask_tiling_a: 1
+    - _hsl_hue_a: 1
+    - _hsl_hue_a_2: 0.894
+    - _hsl_hue_b: 0.886
+    - _hsl_hue_b_2: 0.894
+    - _hsl_saturation_a: 1.802
+    - _hsl_saturation_a_2: 1.919
+    - _hsl_saturation_b: 1.758
+    - _hsl_saturation_b_2: 1.421
+    - _hsl_value_a: 0.026
+    - _hsl_value_a_2: 0.252
+    - _hsl_value_b: 0.008
+    - _hsl_value_b_2: 0.268
+    - _hue_a_1: 0.055
+    - _hue_a_2: 0.014
+    - _hue_b_1: 0.06
+    - _hue_b_2: 1
+    - _mask_opacity: 0.993
+    - _mask_opacity_2: 1
+    - _masknormaltiling: 0.4597179
+    - _maskwstiling: 817
+    - _maskwstiling_2: 0.4597179
+    - _multiply_a: 1
+    - _multiply_a_2: 1
+    - _multiply_b: 1
+    - _multiply_b_2: 1
+    - _normal_mask_tiling: 0.4597179
+    - _normal_mask_tiling_2: 143
+    - _normal_texture_tiling_a: 0
+    - _normal_texture_tiling_b: 0
+    - _rotator: 1
+    - _saturation_a_1: 1.09
+    - _saturation_a_2: 1.218
+    - _saturation_b_1: 1.09
+    - _saturation_b_2: 1.328
+    - _texture2normaltiling: 0
+    - _texture2wstiling: 371
+    - _texture2wstiling_2: 1
+    - _texturenormaltiling: 0
+    - _texturewstiling: 297
+    - _texturewstiling_2: 1
+    - _tilingmask: 182
+    - _tilingmask1: 0.4597179
+    - _value_a_1: 0.046
+    - _value_a_2: 0.046
+    - _value_b_1: 0
+    - _value_b_2: -0.037
+    - _worldspace_mask_tiling: 182
+    - _worldspace_mask_tiling_1: 0.4597179
+    - _worldspace_mask_tiling_2: 1615
+    - _worldspace_texture_tiling_a: 136
+    - _worldspace_texture_tiling_a_2: 294
+    - _worldspace_texture_tiling_b: 136
+    - _worldspace_texture_tiling_b_2: 1000
+    m_Colors:
+    - _ColorMaskcolor1: {r: 1, g: 1, b: 1, a: 0}
+    - _ColorMaskcolor2: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

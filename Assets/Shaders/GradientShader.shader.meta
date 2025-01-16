@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 52151c3c5628e3d40ba74ece1a4f6ccd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _GridMask: {fileID: 2800000, guid: 51ab3d1e0045c41439dcd7474d2aee4b, type: 3}
+  - _matcap_a: {fileID: 2800000, guid: b23676ff9cac20a4c9c7b9333f055f1b, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

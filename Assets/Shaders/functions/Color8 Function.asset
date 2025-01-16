@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Color8 Function
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity
+    Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=18909\n2560;152;1920;994;1322.543;587.3923;1.013596;True;False\nNode;AmplifyShaderEditor.ColorNode;4;-460.1887,-220.137;Inherit;False;Property;_blackColor1;black
+    Color;1;2;[HDR];[Header];Create;True;1;black;0;0;False;0;False;0.097,0.097,0.097,0;1,1,1,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.ColorNode;2;-407.0663,25.34205;Inherit;False;Property;_bottomsecondaryColor;bottom
+    secondary Color;0;1;[Header];Create;True;1;bottom secondary;0;0;False;0;False;1,1,1,0;0,0,0,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.FunctionOutput;0;-99.47082,-151.1982;Inherit;False;True;-1;black;0;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionOutput;3;-67.37756,19.48592;Inherit;False;False;-1;bottom
+    secondary;1;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nWireConnection;0;0;4;0\nWireConnection;3;0;2;0\nASEEND*/\n//CHKSM=89EC3D1037ACE4343F7D00D9C7595A3A3B566A35"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0
+  m_hidden: 0
